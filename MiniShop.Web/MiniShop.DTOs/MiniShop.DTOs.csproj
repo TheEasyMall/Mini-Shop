@@ -9,8 +9,6 @@
   <ItemGroup>
     <Folder Include="Authentication\Responses\" />
     <Folder Include="Authentication\Requests\" />
-    <Folder Include="Requests\" />
-    <Folder Include="Responses\" />
   </ItemGroup>
 
   <ItemGroup>
